@@ -1,0 +1,10 @@
+com\example\repository\UserRepository.class
+com\example\config\JPAConfig.class
+com\example\entity\CommentEntity.class
+com\example\entity\NewEntity.class
+com\example\entity\UserEntity.class
+com\example\controller\web\HomeController.class
+com\example\config\ApplicationConfig.class
+com\example\entity\BaseEntity.class
+com\example\controller\amin\HomeController.class
+com\example\dto\UserDTO.class
